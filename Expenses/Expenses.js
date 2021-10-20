@@ -4,6 +4,8 @@ import './Expenses.css';
 import ExpensesItems from './ExpenseItems';
 
 const Expenses = (props) => {
+    
+    
     return (
         <Card className="expenses">
             <ExpensesItems
